@@ -1,53 +1,30 @@
 *{
     h1{
-        background-color: white;;
-        color:black;
-        display:block;;
-        text-align:center;
-    }
-    p{
+        color: blueviolet;
         text-align: center;
-        background-color: white;
-        color:black;
+    }
+     
+    tr{
+        color:bisque;
+        font-size:xx-large;
+    }
+     
+    ::placeholder{
+        padding: 10px;
+        
+    
     }
     body{
-        background-color: black;
-        color:white;
-
-    }
-
-    p{
-        font-size: larger;
-        font-style: oblique;
-    }
-    
-    }
-
-        
-    
-
-     div class{
-        width:200px;
-        margin:10px;
-        justify-content: space-around;
-        flex-basis: 20%;
-        
-
-
-    }
-    img{
-       
-        height:500px;
-        width:500px;
-        
-    }
-    .container.div{
-        width: 200px;
-        color:white;
-        margin:10px;
-        flex-basis:20%;
+        background-color:pink;
     }
 
     button{
-        color:blue;
+        color:black;
+        background-color: blueviolet;
+        font-style: initial;
+        margin:30px;
     }
+    td{
+        margin-left: 30px;
+    }
+}
